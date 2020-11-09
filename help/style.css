@@ -1,0 +1,39 @@
+style typetextcss start:css {}
+body 	{
+			color: black;
+			font-family: Arial;
+			font-size: 8pt
+	}
+.title	{
+			color: 682F2B;
+			font-size: 17pt;
+			font-weight: bold
+	}
+.mar	{
+			color: B46041
+	}
+.table	{
+			font-size: 8pt;
+			text-align: justify
+	}
+.small
+	{
+			font-family: Arial;
+			font-size: 7.5pt
+	}
+a	{
+			text-decoration: none;
+			color: maroon
+	}
+a:hover {
+			text-decoration: none;
+			color: red
+	}
+a:active {
+			text-decoration: none;
+			color: red
+	 }
+a:visited {
+			text-decoration: none;
+			color: indianred
+	  }

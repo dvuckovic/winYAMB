@@ -1,0 +1,30 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=winYAMB.chm
+Contents file=Table of Contents.hhc
+Default Window=Main
+Default topic=rules.html
+Display compile notes=No
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=winYAMB Help System
+
+[WINDOWS]
+Main=,"Table of Contents.hhc",,"overview.html","overview.html",,,,,0x62520,,0x383e,[195,176,828,594],0x20000,,,,,,0
+
+
+[FILES]
+rules.html
+overview.html
+maximum.html
+index.htm
+saving.html
+best.html
+about.html
+shortcuts.html
+statusbar.html
+license.html
+
+[INFOTYPES]
+
